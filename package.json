@@ -1,0 +1,27 @@
+{
+  "name": "pixijs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@pixi/app": "^7.4.3",
+    "@pixi/assets": "^7.4.3",
+    "@pixi/core": "^7.4.3",
+    "@pixi/display": "^7.4.3",
+    "@pixi/events": "^7.4.3",
+    "@pixi/graphics": "^7.4.3",
+    "@pixi/sprite": "^7.4.3",
+    "@pixi/text": "^7.4.3",
+    "pixi.js": "^8.9.1"
+  },
+  "devDependencies": {
+    "vite": "^6.2.3"
+  }
+}

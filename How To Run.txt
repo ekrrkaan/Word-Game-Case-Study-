@@ -1,0 +1,1 @@
+Since I use vite as a live server, the program can be run with npx vite after npm install.
